@@ -1,17 +1,13 @@
 .text-primary {
-  color:lightblue !important;
+  color:#86A69D !important;
 }
 
 .bg-warning-sub{
-  background-color:lavenderblush !important;
+  background-color: #F2E8DF !important;
 }
 
 .bg-btn {
-  background-color:rgb(250, 194, 212)!important;
-}
-
-.bg-btn2 {
-  background-color: lightpink !important;
+  background-color:#F2C6C2!important;
 }
 
 .typewriter p {
